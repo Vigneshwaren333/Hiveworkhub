@@ -156,7 +156,7 @@ const Login = () => {
   return (
     <div style={styles.container}>
       <div style={styles.leftPanel}>
-        <div style={styles.logo}>HIVE</div>
+        <div style={styles.logo}>HIVEWORK HUB</div>
         <h1 style={styles.heroText}>
           Capturing Moments,<br />
           Creating Memories
